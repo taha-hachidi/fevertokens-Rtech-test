@@ -1,16 +1,10 @@
 # fevertokens-Rtech-test
-
-Running the app
-
-git clone https://github.com/Rihab-nikh/fevertokens-Rtech-test.git
+Task 1 :
 
 npm install
 
-react-native run-ios | react-native run-android
-
-Task 3:
-
-I'll keep alternate driving left and right along the highway covering 2km each way and scanning both sides in case I saw the red car after marking the endpoint I'll return to the starting point and repeat the process while gradually increasing the distance until I find the car
+react-native run-ios 
+react-native run-android
 
 Task 2:
 
@@ -63,9 +57,16 @@ public class Task2Algo {
                 System.out.print(", ");
             }
         }
+
         System.out.println();
     }
 }
+
+
+Task 3:
+
+
+I will alternate driving left and right along the highway, covering 2 kilometers in each direction, while scanning both sides for the red car. After marking the endpoint, I will return to the starting point and repeat the process, gradually extending the distance covered until I locate the car
 
 
 # fevertokens-Rtech-test
